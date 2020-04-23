@@ -23,3 +23,5 @@ Sample website with plenty of files for demos
 ## Copyright
 
 git.training
+
+hey how are you ?
