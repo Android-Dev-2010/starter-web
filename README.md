@@ -22,6 +22,6 @@ Sample website with plenty of files for demos
 
 ## Copyright
 
-git.training
+git.training all right reserved.
 
 hey how are you ?
